@@ -397,7 +397,7 @@ section .widget {
     .menu li:hover>ul {
         background: transparent;
         right: 5px;
-        top: 510px;
+        top: 480px;
         display: flex;
     }
 
