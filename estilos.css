@@ -403,7 +403,7 @@ section .widget {
 
     .menu.sticky li:hover>ul {
         background: transparent;
-        top: 510px;
+        top: 480px;
     }
 
     .home .home-content .text-2 {
